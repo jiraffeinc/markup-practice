@@ -1,0 +1,16 @@
+{
+  "name": "markup-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jiraffeinc/markup-practice.git",
+  "author": "kawoka <br2jn51@yahoo.co.jp>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "./node_modules/.bin/node-sass src/styles/application.sass assets/styles/application.css --output-style compressed",
+    "watch": "./node_modules/.bin/node-sass src/styles/application.sass assets/styles/application.css --source-map true -w"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
