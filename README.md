@@ -72,7 +72,7 @@ open ./index.html
 ```
 
 ブラウザに青い文字で `最もイケてるホームページ` と表示されたら環境構築完了です
-
+<img src="https://raw.githubusercontent.com/jiraffeinc/markup-practice/master/docs/images/env.png" />
 ### Step2. 開発
 下記コマンドで `src/styles/application.sass` が監視されます
 ```
