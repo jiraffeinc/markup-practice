@@ -56,6 +56,8 @@ HTMLには文章構造を表現する役割があります。
 カンプは `design` ディレクトリにおいてあります
 jpgとsketchファイルが置いてありますのでご確認ください
 
+<img src="https://raw.githubusercontent.com/jiraffeinc/markup-practice/master/docs/images/camp.jpg" />
+
 #### 要件
 * Google Chrome (最新Ver) で動作すること
 * レスポンシブであること(PCとSPのデザインカンプの表示が1ページで担保されていること)
