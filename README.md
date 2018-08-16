@@ -32,6 +32,9 @@ SEOを意識したマークアップをおこなうことは重要です
   背景色と文字色を同じにするなど人間が読めない状態になっているとペナルティを受ける可能性があります  
 * javascriptで動的にテキストを追加するなどもSEO効果が薄くなってしまう可能性があるので、  
   SEO上重要な項目では行わないようにしましょう  
+  
+#### WAI-ARIA
+[WAI-ARIA](https://developer.mozilla.org/ja/docs/Learn/Accessibility/WAI-ARIA_basics)
 
 ### Sass/CSS
 
