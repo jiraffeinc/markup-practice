@@ -65,6 +65,8 @@ jpgとsketchファイルが置いてありますのでご確認ください
 
 ### Step1. 環境構築
 * [yarn](https://yarnpkg.com/ja/docs/install#mac-stable)と[Node.js](https://nodejs.org/ja/)を適時インストールしてください
+  ※Node.jsのインストールはバージョン管理のできる[nodenv](https://github.com/nodenv/nodenv)などを使用すると良いです
+
 * packageのインストール
 ターミナルでプロジェクトルートに移動し、下記操作を行ってください  
 ```
