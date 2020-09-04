@@ -11,6 +11,6 @@
     "watch": "./node_modules/.bin/node-sass src/styles/application.sass assets/styles/application.css --source-map true -w"
   },
   "devDependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   }
 }
